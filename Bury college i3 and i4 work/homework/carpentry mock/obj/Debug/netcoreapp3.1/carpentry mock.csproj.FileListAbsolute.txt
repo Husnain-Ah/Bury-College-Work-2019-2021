@@ -1,0 +1,13 @@
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.csprojAssemblyReference.cache
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.AssemblyInfoInputs.cache
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.AssemblyInfo.cs
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.csproj.CoreCompileInputs.cache
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.exe
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.deps.json
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.runtimeconfig.json
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.runtimeconfig.dev.json
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.dll
+C:\Users\Husnain\Documents\homework\carpentry mock\bin\Debug\netcoreapp3.1\carpentry mock.pdb
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.dll
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.pdb
+C:\Users\Husnain\Documents\homework\carpentry mock\obj\Debug\netcoreapp3.1\carpentry mock.genruntimeconfig.cache

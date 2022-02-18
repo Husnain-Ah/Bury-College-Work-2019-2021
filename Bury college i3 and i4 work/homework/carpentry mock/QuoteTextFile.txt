@@ -1,0 +1,3 @@
+Hello Husnain The date is 1,2,3456 The total cost of the room bedroom is £299.988 , The cost of the carpet was £150, Added 20% VAT as well as £50 for the underlay and £49.99 for the fitting. 
+Hello HusnainThe date is 1,2,3456 The total cost of the room kitchen is £149.988 , The cost of the carpet was £75, Added 20% VAT and £49.99 for the fitting. 
+The total cost of all your rooms combined is £449.976

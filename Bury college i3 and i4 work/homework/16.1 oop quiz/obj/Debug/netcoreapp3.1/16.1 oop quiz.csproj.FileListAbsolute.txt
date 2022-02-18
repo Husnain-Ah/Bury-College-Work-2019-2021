@@ -1,0 +1,13 @@
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.exe
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.deps.json
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.runtimeconfig.json
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.runtimeconfig.dev.json
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.dll
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\bin\Debug\netcoreapp3.1\16.1 oop quiz.pdb
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.csprojAssemblyReference.cache
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.AssemblyInfoInputs.cache
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.AssemblyInfo.cs
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.csproj.CoreCompileInputs.cache
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.dll
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.pdb
+C:\Users\Husnain\Documents\homework\16.1 oop quiz\obj\Debug\netcoreapp3.1\16.1 oop quiz.genruntimeconfig.cache
