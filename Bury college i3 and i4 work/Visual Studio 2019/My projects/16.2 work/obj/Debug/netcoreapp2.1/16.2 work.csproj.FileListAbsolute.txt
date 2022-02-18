@@ -1,0 +1,11 @@
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\bin\Debug\netcoreapp2.1\16.2 work.deps.json
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\bin\Debug\netcoreapp2.1\16.2 work.runtimeconfig.json
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\bin\Debug\netcoreapp2.1\16.2 work.runtimeconfig.dev.json
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\bin\Debug\netcoreapp2.1\16.2 work.dll
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\bin\Debug\netcoreapp2.1\16.2 work.pdb
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.csprojAssemblyReference.cache
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.csproj.CoreCompileInputs.cache
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.AssemblyInfoInputs.cache
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.AssemblyInfo.cs
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.dll
+\\BC-FS-007\B1905311$\Visual Studio 2019\My projects\16.2 work\obj\Debug\netcoreapp2.1\16.2 work.pdb

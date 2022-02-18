@@ -1,0 +1,11 @@
+N:\Visual Studio 2019\My projects\factorial finder\bin\Debug\netcoreapp2.1\factorial finder.deps.json
+N:\Visual Studio 2019\My projects\factorial finder\bin\Debug\netcoreapp2.1\factorial finder.runtimeconfig.json
+N:\Visual Studio 2019\My projects\factorial finder\bin\Debug\netcoreapp2.1\factorial finder.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\factorial finder\bin\Debug\netcoreapp2.1\factorial finder.dll
+N:\Visual Studio 2019\My projects\factorial finder\bin\Debug\netcoreapp2.1\factorial finder.pdb
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.dll
+N:\Visual Studio 2019\My projects\factorial finder\obj\Debug\netcoreapp2.1\factorial finder.pdb

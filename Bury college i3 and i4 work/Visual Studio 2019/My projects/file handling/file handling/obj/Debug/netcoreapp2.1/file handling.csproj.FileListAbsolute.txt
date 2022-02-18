@@ -1,0 +1,11 @@
+N:\Visual Studio 2019\My projects\file handling\file handling\bin\Debug\netcoreapp2.1\file handling.deps.json
+N:\Visual Studio 2019\My projects\file handling\file handling\bin\Debug\netcoreapp2.1\file handling.runtimeconfig.json
+N:\Visual Studio 2019\My projects\file handling\file handling\bin\Debug\netcoreapp2.1\file handling.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\file handling\file handling\bin\Debug\netcoreapp2.1\file handling.dll
+N:\Visual Studio 2019\My projects\file handling\file handling\bin\Debug\netcoreapp2.1\file handling.pdb
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.dll
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.pdb
+N:\Visual Studio 2019\My projects\file handling\file handling\obj\Debug\netcoreapp2.1\file handling.csproj.CoreCompileInputs.cache

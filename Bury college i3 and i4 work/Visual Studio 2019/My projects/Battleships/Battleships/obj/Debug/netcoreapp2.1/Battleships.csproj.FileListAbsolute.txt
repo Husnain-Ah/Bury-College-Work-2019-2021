@@ -1,0 +1,22 @@
+N:\Visual Studio 2019\Projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.deps.json
+N:\Visual Studio 2019\Projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.json
+N:\Visual Studio 2019\Projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.dev.json
+N:\Visual Studio 2019\Projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.dll
+N:\Visual Studio 2019\Projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.pdb
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csprojAssemblyReference.cache
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfo.cs
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.dll
+N:\Visual Studio 2019\Projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.pdb
+N:\Visual Studio 2019\My projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.deps.json
+N:\Visual Studio 2019\My projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.json
+N:\Visual Studio 2019\My projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.dll
+N:\Visual Studio 2019\My projects\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.pdb
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.dll
+N:\Visual Studio 2019\My projects\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.pdb

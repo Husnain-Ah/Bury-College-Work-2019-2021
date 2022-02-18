@@ -1,0 +1,10 @@
+N:\Visual Studio 2019\My projects\sandwich gui\bin\Debug\sandwich gui.exe.config
+N:\Visual Studio 2019\My projects\sandwich gui\bin\Debug\sandwich gui.exe
+N:\Visual Studio 2019\My projects\sandwich gui\bin\Debug\sandwich gui.pdb
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich gui.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich_gui.Form1.resources
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich_gui.Properties.Resources.resources
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich gui.csproj.GenerateResource.cache
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich gui.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich gui.exe
+N:\Visual Studio 2019\My projects\sandwich gui\obj\Debug\sandwich gui.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\My Work\\Visual Studio 2019\\My projects\\targets\\targets.csproj": {}
+  },
+  "projects": {
+    "N:\\My Work\\Visual Studio 2019\\My projects\\targets\\targets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\My Work\\Visual Studio 2019\\My projects\\targets\\targets.csproj",
+        "projectName": "targets",
+        "projectPath": "N:\\My Work\\Visual Studio 2019\\My projects\\targets\\targets.csproj",
+        "packagesPath": "C:\\Users\\B1905311\\.nuget\\packages\\",
+        "outputPath": "N:\\My Work\\Visual Studio 2019\\My projects\\targets\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\B1905311\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

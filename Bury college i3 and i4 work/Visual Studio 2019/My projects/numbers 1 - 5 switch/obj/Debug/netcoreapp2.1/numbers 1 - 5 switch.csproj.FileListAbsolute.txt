@@ -1,0 +1,11 @@
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\bin\Debug\netcoreapp2.1\numbers 1 - 5 switch.deps.json
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\bin\Debug\netcoreapp2.1\numbers 1 - 5 switch.runtimeconfig.json
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\bin\Debug\netcoreapp2.1\numbers 1 - 5 switch.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\bin\Debug\netcoreapp2.1\numbers 1 - 5 switch.dll
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\bin\Debug\netcoreapp2.1\numbers 1 - 5 switch.pdb
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.dll
+N:\Visual Studio 2019\My projects\numbers 1 - 5 switch\obj\Debug\netcoreapp2.1\numbers 1 - 5 switch.pdb

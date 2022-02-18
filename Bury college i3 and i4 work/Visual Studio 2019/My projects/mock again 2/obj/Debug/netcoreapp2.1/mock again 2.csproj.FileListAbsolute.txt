@@ -1,0 +1,11 @@
+N:\Visual Studio 2019\My projects\mock again 2\bin\Debug\netcoreapp2.1\mock again 2.deps.json
+N:\Visual Studio 2019\My projects\mock again 2\bin\Debug\netcoreapp2.1\mock again 2.runtimeconfig.json
+N:\Visual Studio 2019\My projects\mock again 2\bin\Debug\netcoreapp2.1\mock again 2.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\mock again 2\bin\Debug\netcoreapp2.1\mock again 2.dll
+N:\Visual Studio 2019\My projects\mock again 2\bin\Debug\netcoreapp2.1\mock again 2.pdb
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.dll
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.pdb
+N:\Visual Studio 2019\My projects\mock again 2\obj\Debug\netcoreapp2.1\mock again 2.csprojAssemblyReference.cache

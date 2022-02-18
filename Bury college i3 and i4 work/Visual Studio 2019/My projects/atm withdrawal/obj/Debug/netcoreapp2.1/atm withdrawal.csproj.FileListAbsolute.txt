@@ -1,0 +1,11 @@
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.csprojAssemblyReference.cache
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.csproj.CoreCompileInputs.cache
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.AssemblyInfoInputs.cache
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.AssemblyInfo.cs
+N:\Visual Studio 2019\My projects\atm withdrawal\bin\Debug\netcoreapp2.1\atm withdrawal.deps.json
+N:\Visual Studio 2019\My projects\atm withdrawal\bin\Debug\netcoreapp2.1\atm withdrawal.runtimeconfig.json
+N:\Visual Studio 2019\My projects\atm withdrawal\bin\Debug\netcoreapp2.1\atm withdrawal.runtimeconfig.dev.json
+N:\Visual Studio 2019\My projects\atm withdrawal\bin\Debug\netcoreapp2.1\atm withdrawal.dll
+N:\Visual Studio 2019\My projects\atm withdrawal\bin\Debug\netcoreapp2.1\atm withdrawal.pdb
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.dll
+N:\Visual Studio 2019\My projects\atm withdrawal\obj\Debug\netcoreapp2.1\atm withdrawal.pdb

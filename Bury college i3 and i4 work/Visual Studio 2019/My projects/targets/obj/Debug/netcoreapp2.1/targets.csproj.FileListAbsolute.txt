@@ -1,0 +1,11 @@
+N:\My Work\Visual Studio 2019\My projects\targets\bin\Debug\netcoreapp2.1\targets.deps.json
+N:\My Work\Visual Studio 2019\My projects\targets\bin\Debug\netcoreapp2.1\targets.runtimeconfig.json
+N:\My Work\Visual Studio 2019\My projects\targets\bin\Debug\netcoreapp2.1\targets.runtimeconfig.dev.json
+N:\My Work\Visual Studio 2019\My projects\targets\bin\Debug\netcoreapp2.1\targets.dll
+N:\My Work\Visual Studio 2019\My projects\targets\bin\Debug\netcoreapp2.1\targets.pdb
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.csprojAssemblyReference.cache
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.csproj.CoreCompileInputs.cache
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.AssemblyInfoInputs.cache
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.AssemblyInfo.cs
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.dll
+N:\My Work\Visual Studio 2019\My projects\targets\obj\Debug\netcoreapp2.1\targets.pdb

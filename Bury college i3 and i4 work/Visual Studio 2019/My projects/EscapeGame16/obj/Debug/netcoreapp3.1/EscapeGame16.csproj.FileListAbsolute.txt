@@ -1,0 +1,13 @@
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.csprojAssemblyReference.cache
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.AssemblyInfoInputs.cache
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.AssemblyInfo.cs
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.csproj.CoreCompileInputs.cache
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.exe
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.deps.json
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.runtimeconfig.json
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.runtimeconfig.dev.json
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.dll
+C:\Users\Husnain\Documents\homework\EscapeGame16\bin\Debug\netcoreapp3.1\EscapeGame16.pdb
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.dll
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.pdb
+C:\Users\Husnain\Documents\homework\EscapeGame16\obj\Debug\netcoreapp3.1\EscapeGame16.genruntimeconfig.cache
