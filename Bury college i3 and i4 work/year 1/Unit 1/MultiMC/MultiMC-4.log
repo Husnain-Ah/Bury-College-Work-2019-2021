@@ -1,0 +1,952 @@
+    0.090 D <> Log initialized.
+    0.090 D MultiMC 5, (c) 2013-2019 MultiMC Contributors
+    0.090 D Version                    :  "0.6.7-1375"
+    0.090 D Git commit                 :  "c291946d2a8c3e03940da4070533e124283d303c"
+    0.090 D Git refspec                :  "refs/heads/stable"
+    0.090 D Work dir before adjustment :  "N:/My Work/MultiMC"
+    0.090 D Work dir after adjustment  :  "N:/My Work/MultiMC"
+    0.090 D Adjusted by                :  "Fallback to binary path N:/My Work/MultiMC"
+    0.090 D Binary path                :  "N:/My Work/MultiMC"
+    0.090 D Application root path      :  "N:/My Work/MultiMC"
+    0.090 D <> Paths set.
+    0.110 D Detected default console font: "Courier" , substitutions: ""
+    0.110 D <> Settings loaded.
+    0.120 D Your language is "en"
+    0.130 D <> Translations loaded.
+    0.130 D <> Updater started.
+    0.130 D Started watching  "N:/My Work/MultiMC/icons"
+    0.150 D <> Instance icons intialized.
+    0.150 D <> Icon themes initialized.
+    0.150 D ""
+    0.160 D Loading theme "custom"
+    0.170 D <> Widget themes initialized.
+    0.170 D Instance path              :  "instances"
+    0.170 D Loading Instances...
+    0.170 D Discovering instances in "N:/My Work/MultiMC/instances"
+    0.180 D Found instance ID "1.14.4"
+    0.180 D Will load group list now.
+    0.180 D Group list loaded.
+    0.180 D Loaded instance  "1.14.4"  from  "N:/My Work/MultiMC/instances/1.14.4"
+    0.180 D <> Instances loaded.
+    0.180 D Loading accounts...
+    0.190 D <> Accounts loaded.
+    0.190 D <> Cache initialized.
+    0.190 D Detecting proxy settings...
+    0.190 D Using no proxy is an option!
+    0.200 D <> Proxy settings done.
+    0.200 D Downloading Translations Index...
+    0.200 D Task "NetJob(Translations Index)" starting for the first time
+    0.230 D <> Icon theme set.
+    0.230 D <> Application theme set.
+    0.240 D <> Initialized analytics with tid "UA-87731965-2"
+    0.510 D Task "JavaListLoadTask(0x2eea8a0)" starting for the first time
+    0.520 D Probing the following Java paths: 
+    0.520 D   "C:/Program Files/Java/jre1.8.0_202/bin/javaw.exe"
+    0.520 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+    0.520 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    0.530 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    0.530 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+    0.530 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    0.530 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    0.530 D   "javaw"
+    0.530 D Task "JavaCheckerJob(0x2eea398)" starting for the first time
+    0.530 D "Java detection"  started.
+    0.530 D "Running java checker: C:/Program Files/Java/jre1.8.0_202/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.360 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.360 D Java checker has failed to start.
+    1.360 D "Java detection" progress: 1 / 8
+    1.360 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.360 D Java checker has failed to start.
+    1.360 D "Java detection" progress: 2 / 8
+    1.360 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.370 D Java checker has failed to start.
+    1.370 D "Java detection" progress: 3 / 8
+    1.370 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.370 D Java checker has failed to start.
+    1.370 D "Java detection" progress: 4 / 8
+    1.370 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.370 D Java checker has failed to start.
+    1.370 D "Java detection" progress: 5 / 8
+    1.370 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.370 D Java checker has failed to start.
+    1.370 D "Java detection" progress: 6 / 8
+    1.370 D "Running java checker: javaw-jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    1.540 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.780 D Dir changed: "N:/My Work/MultiMC/translations"
+    2.790 D STDOUT "os.arch=amd64\njava.version=1.8.0_202\n"
+    2.790 W STDERR ""
+    2.790 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.790 D Java checker succeeded.
+    2.790 D "Java detection" progress: 7 / 8
+    2.810 D STDOUT "os.arch=amd64\njava.version=1.8.0_202\n"
+    2.810 W STDERR ""
+    2.810 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.810 D Java checker succeeded.
+    2.820 D "Java detection" progress: 8 / 8
+    2.820 D Task "JavaCheckerJob(0x2eea398)" succeeded
+    2.820 D Found the following valid Java installations:
+    2.820 D   "1.8.0_202" "64" "C:/Program Files/Java/jre1.8.0_202/bin/javaw.exe"
+    2.820 D   "1.8.0_202" "64" "javaw"
+    2.820 D Task "JavaListLoadTask(0x2eea8a0)" succeeded
+    2.850 D "Running java checker: javaw-Xms512m -Xmx1024m -jar N:/My Work/MultiMC/jars/JavaCheck.jar"
+    3.082 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    3.082 D Task "NetJob(Translations Index)" succeeded
+    3.083 D Got translations index!
+    3.103 D Dir changed: "N:/My Work/MultiMC/translations"
+    3.107 D Dir changed: "N:/My Work/MultiMC/translations"
+    3.319 D STDOUT "os.arch=amd64\njava.version=1.8.0_202\n"
+    3.320 W STDERR ""
+    3.320 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    3.321 D Java checker succeeded.
+    3.990 D Wizard result = 1
+    4.405 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    4.432 D Task "NetJob(Status JSON)" starting for the first time
+    4.466 D Task "NetJob(Startup player skins download)" starting for the first time
+    4.467 D Reloading news.
+    4.467 D Task "NetJob(News RSS Feed)" starting for the first time
+    4.468 D Checking for updates.
+    4.468 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    4.469 D Loading the channel list.
+    4.469 D Task "NetJob(Update System Channel List)" starting for the first time
+    4.471 D Task "NetJob(Checking for notifications)" starting for the first time
+    4.556 D Viewport size "694x563"
+    4.557 D RAM size is 8077 MB
+    4.557 D [Analytics] "ScreenView: Main Window"
+    4.558 D <> Main window shown.
+    4.612 D Downloading  "https://status.mojang.com/check"
+    4.621 D Downloading  "https://crafatar.com/skins/bf98850d43a443548e642e47b37aeb57.png"
+    4.622 D Downloading  "http://multimc.org/rss.xml"
+    4.623 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    4.629 D Downloading  "http://files.multimc.org/notifications.json"
+    4.645 D Location header: QUrl("https://files.multimc.org/update/win32/channels.json")
+    4.645 D Following redirect to  "https://files.multimc.org/update/win32/channels.json"
+    4.645 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    4.645 D Download redirected: "https://files.multimc.org/update/win32/channels.json"
+    4.645 D Location header: QUrl("https://files.multimc.org/notifications.json")
+    4.645 D Following redirect to  "https://files.multimc.org/notifications.json"
+    4.665 D Downloading  "https://files.multimc.org/notifications.json"
+    4.665 D Download redirected: "https://files.multimc.org/notifications.json"
+    4.675 D Location header: QUrl("https://multimc.org/rss.xml")
+    4.675 D Following redirect to  "https://multimc.org/rss.xml"
+    4.675 D Downloading  "https://multimc.org/rss.xml"
+    4.675 D Download redirected: "https://multimc.org/rss.xml"
+    4.685 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    4.685 D Task "NetJob(Update System Channel List)" succeeded
+    4.685 D Successfully loaded UpdateChecker channel list.
+    4.685 D Checking for updates.
+    4.685 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    4.685 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    4.685 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    4.705 D Location header: QUrl("https://files.multimc.org/update/win32/stable/index.json")
+    4.705 D Following redirect to  "https://files.multimc.org/update/win32/stable/index.json"
+    4.705 D Downloading  "https://files.multimc.org/update/win32/stable/index.json"
+    4.705 D Download redirected: "https://files.multimc.org/update/win32/stable/index.json"
+    4.715 D Download succeeded: "https://crafatar.com/skins/bf98850d43a443548e642e47b37aeb57.png"
+    4.715 D Task "NetJob(Startup player skins download)" succeeded
+    4.725 D Download succeeded: "https://files.multimc.org/notifications.json"
+    4.755 D Task "NetJob(Checking for notifications)" succeeded
+    4.765 D Download succeeded: "https://files.multimc.org/update/win32/stable/index.json"
+    4.765 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    4.765 D Finished downloading repo index. Checking for new versions.
+    4.765 D Processing repository version list.
+    4.925 D Download succeeded: "https://multimc.org/rss.xml"
+    4.925 D Task "NetJob(News RSS Feed)" succeeded
+    4.925 D Finished loading RSS feed.
+    4.925 D Loaded news entry "Let's Talk About Forge"
+    4.925 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    4.935 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    4.935 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    4.935 D Loaded news entry "0.6.3 - The Big Sync"
+    4.935 D Loaded news entry "0.6.2 Released!"
+    4.935 D Loaded news entry "0.6.1 Released!"
+    4.935 D Loaded news entry "0.6.0 Released!"
+    4.935 D Loaded news entry "Introducing the Archive"
+    4.935 D Loaded news entry "0.5.1 - Bugfixes."
+    4.935 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    4.935 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    4.935 D Loaded news entry "0.4.10 - Another wifi fix"
+    4.935 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    4.935 D Loaded news entry "0.4.8 - Worlds and more."
+    4.935 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    4.935 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    4.935 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    4.935 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    4.935 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    4.935 D Loaded news entry "Support us on Patreon!"
+    4.935 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    4.945 D Loaded news entry "Announcing MultiMC 6"
+    4.945 D Loaded news entry "0.3 - The big feature update."
+    4.945 D Loaded news entry "First official MultiMC 5 release!"
+    4.945 D Loaded news entry "MultiMC Status Update"
+    4.945 D News loading succeeded.
+    4.995 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+    4.995 D Download failed in previous step: "https://status.mojang.com/check"
+    4.995 D Downloading  "https://status.mojang.com/check"
+    5.105 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+    5.105 D Download failed in previous step: "https://status.mojang.com/check"
+    5.105 D Downloading  "https://status.mojang.com/check"
+    5.205 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+    5.205 D Download failed in previous step: "https://status.mojang.com/check"
+    5.205 D Downloading  "https://status.mojang.com/check"
+    5.305 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+    5.305 D Download failed in previous step: "https://status.mojang.com/check"
+    5.305 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+    5.305 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+    6.975 D Task "LaunchController(0x3f6e3d0)" starting for the first time
+    6.985 D Task "RefreshTask(0x6181e48)" starting for the first time
+    7.092 C Task "RefreshTask(0x6181e48)" failed:  "Authentication operation failed due to a network error: Connection closed (2)"
+   12.389 D Task "LaunchTask(0x3f6e420)" starting for the first time
+   12.389 D Task "TextPrint(0x6189860)" starting for the first time
+   12.399 D Task "TextPrint(0x6189860)" succeeded
+   12.399 D Task "TextPrint(0x3f87ea8)" starting for the first time
+   12.399 D Task "TextPrint(0x3f87ea8)" succeeded
+   12.399 D Task "CheckJava(0x2ee35f0)" starting for the first time
+   12.399 D Task "CheckJava(0x2ee35f0)" succeeded
+   12.399 D Task "Update(0x2ee3c70)" starting for the first time
+   12.399 D Task "MinecraftLoadAndCheck(0x2ee37f0)" starting for the first time
+   12.409 D Task "ComponentUpdateTask(0x6114598)" starting for the first time
+   12.409 D Loading components
+   12.409 W QCoreApplication::postEvent: Unexpected null receiver
+   12.419 D Component list save is scheduled for "1.14.4"
+   12.419 W QCoreApplication::postEvent: Unexpected null receiver
+   12.419 W QCoreApplication::postEvent: Unexpected null receiver
+   12.419 D Resolving dependencies
+   12.419 D "Req: org.lwjgl3 == 3.2.2" Is met.
+   12.429 D Task "ComponentUpdateTask(0x6114598)" succeeded
+   12.429 D Component list update/resolve task succeeded for "1.14.4"
+   12.429 D Task "MinecraftLoadAndCheck(0x2ee37f0)" succeeded
+   12.429 D Task "Update(0x2ee3c70)" succeeded
+   12.429 D Task "ModMinecraftJar(0x61144d8)" starting for the first time
+   12.429 D Applying "org.lwjgl3" GOOD
+   12.429 D Applying "net.minecraft" GOOD
+   12.429 D Task "ModMinecraftJar(0x61144d8)" succeeded
+   12.429 D Task "ScanModFolders(0x6114358)" starting for the first time
+   12.489 D Task "ScanModFolders(0x6114358)" succeeded
+   12.489 D Task "PrintInstanceInfo(0x3f79840)" starting for the first time
+   12.869 D Task "PrintInstanceInfo(0x3f79840)" succeeded
+   12.869 D Task "CreateServerResourcePacksFolder(0x61144a8)" starting for the first time
+   12.879 D Task "CreateServerResourcePacksFolder(0x61144a8)" succeeded
+   12.879 D Task "ExtractNatives(0x61146e8)" starting for the first time
+   14.009 D Task "ExtractNatives(0x61146e8)" succeeded
+   14.009 D Task "ReconstructAssets(0x6114658)" starting for the first time
+   14.009 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.14"
+   14.039 D Task "ReconstructAssets(0x6114658)" succeeded
+   14.039 D Task "LauncherPartLaunch(0x2f0e8a8)" starting for the first time
+   14.069 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=N:/My Work/MultiMC/instances/1.14.4/natives -cp N:/My Work/MultiMC/jars/NewLaunch.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar;N:/My Work/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar;N:/My Work/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;N:/My Work/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;N:/My Work/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;N:/My Work/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;N:/My Work/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;N:/My Work/MultiMC/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar;N:/My Work/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;N:/My Work/MultiMC/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar;N:/My Work/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;N:/My Work/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;N:/My Work/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;N:/My Work/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;N:/My Work/MultiMC/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar;N:/My Work/MultiMC/libraries/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar;N:/My Work/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;N:/My Work/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;N:/My Work/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;N:/My Work/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;N:/My Work/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;N:/My Work/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;N:/My Work/MultiMC/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar;N:/My Work/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;N:/My Work/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;N:/My Work/MultiMC/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar;N:/My Work/MultiMC/libraries/com/mojang/minecraft/1.14.4/minecraft-1.14.4-client.jar org.multimc.EntryPoint"
+   17.426 D Component list save performed now for "1.14.4"
+   30.248 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=0eb33524-6ccb-4ed3-9768-f32f3dd7f0f8&t=screenview&ul=en-gb&vp=694x563&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC5&av=0.6.7-1375&cd1=1.8.0_202&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=8077&qt=25690"
+   30.908 D [Analytics] "Message sent"
+   64.424 D Task "NetJob(Status JSON)" starting for the first time
+   64.425 D Downloading  "https://status.mojang.com/check"
+   64.521 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+   64.521 D Download failed in previous step: "https://status.mojang.com/check"
+   64.522 D Downloading  "https://status.mojang.com/check"
+   64.639 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+   64.640 D Download failed in previous step: "https://status.mojang.com/check"
+   64.641 D Downloading  "https://status.mojang.com/check"
+   64.775 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+   64.776 D Download failed in previous step: "https://status.mojang.com/check"
+   64.776 D Downloading  "https://status.mojang.com/check"
+   64.874 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+   64.874 D Download failed in previous step: "https://status.mojang.com/check"
+   64.875 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+   64.875 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  124.426 D Task "NetJob(Status JSON)" starting for the first time
+  124.428 D Downloading  "https://status.mojang.com/check"
+  124.529 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  124.529 D Download failed in previous step: "https://status.mojang.com/check"
+  124.530 D Downloading  "https://status.mojang.com/check"
+  124.625 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  124.626 D Download failed in previous step: "https://status.mojang.com/check"
+  124.627 D Downloading  "https://status.mojang.com/check"
+  124.722 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  124.723 D Download failed in previous step: "https://status.mojang.com/check"
+  124.724 D Downloading  "https://status.mojang.com/check"
+  124.839 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  124.840 D Download failed in previous step: "https://status.mojang.com/check"
+  124.841 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  124.842 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  184.424 D Task "NetJob(Status JSON)" starting for the first time
+  184.425 D Downloading  "https://status.mojang.com/check"
+  184.520 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  184.521 D Download failed in previous step: "https://status.mojang.com/check"
+  184.521 D Downloading  "https://status.mojang.com/check"
+  184.617 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  184.618 D Download failed in previous step: "https://status.mojang.com/check"
+  184.618 D Downloading  "https://status.mojang.com/check"
+  184.713 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  184.714 D Download failed in previous step: "https://status.mojang.com/check"
+  184.715 D Downloading  "https://status.mojang.com/check"
+  184.809 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  184.810 D Download failed in previous step: "https://status.mojang.com/check"
+  184.810 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  184.811 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  244.427 D Task "NetJob(Status JSON)" starting for the first time
+  244.428 D Downloading  "https://status.mojang.com/check"
+  244.913 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  244.914 D Download failed in previous step: "https://status.mojang.com/check"
+  244.914 D Downloading  "https://status.mojang.com/check"
+  245.900 D Download succeeded: "https://status.mojang.com/check"
+  245.901 D Task "NetJob(Status JSON)" succeeded
+  245.902 D Finished loading status JSON.
+  245.903 D Status loading succeeded.
+  304.427 D Task "NetJob(Status JSON)" starting for the first time
+  304.428 D Downloading  "https://status.mojang.com/check"
+  326.361 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  326.362 D Download failed in previous step: "https://status.mojang.com/check"
+  326.363 D Downloading  "https://status.mojang.com/check"
+  326.474 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  326.475 D Download failed in previous step: "https://status.mojang.com/check"
+  326.476 D Downloading  "https://status.mojang.com/check"
+  326.582 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  326.583 D Download failed in previous step: "https://status.mojang.com/check"
+  326.584 D Downloading  "https://status.mojang.com/check"
+  326.683 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  326.684 D Download failed in previous step: "https://status.mojang.com/check"
+  326.685 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  326.685 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  364.427 D Task "NetJob(Status JSON)" starting for the first time
+  364.428 D Downloading  "https://status.mojang.com/check"
+  364.678 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  364.679 D Download failed in previous step: "https://status.mojang.com/check"
+  364.679 D Downloading  "https://status.mojang.com/check"
+  364.796 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  364.797 D Download failed in previous step: "https://status.mojang.com/check"
+  364.797 D Downloading  "https://status.mojang.com/check"
+  364.896 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  364.897 D Download failed in previous step: "https://status.mojang.com/check"
+  364.898 D Downloading  "https://status.mojang.com/check"
+  364.997 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  364.998 D Download failed in previous step: "https://status.mojang.com/check"
+  364.999 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  364.999 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  424.419 D Task "NetJob(Status JSON)" starting for the first time
+  424.421 D Downloading  "https://status.mojang.com/check"
+  424.529 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  424.530 D Download failed in previous step: "https://status.mojang.com/check"
+  424.530 D Downloading  "https://status.mojang.com/check"
+  424.626 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  424.627 D Download failed in previous step: "https://status.mojang.com/check"
+  424.628 D Downloading  "https://status.mojang.com/check"
+  424.725 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  424.725 D Download failed in previous step: "https://status.mojang.com/check"
+  424.726 D Downloading  "https://status.mojang.com/check"
+  424.826 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  424.826 D Download failed in previous step: "https://status.mojang.com/check"
+  424.827 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  424.828 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  484.425 D Task "NetJob(Status JSON)" starting for the first time
+  484.426 D Downloading  "https://status.mojang.com/check"
+  484.533 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  484.534 D Download failed in previous step: "https://status.mojang.com/check"
+  484.535 D Downloading  "https://status.mojang.com/check"
+  484.641 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  484.642 D Download failed in previous step: "https://status.mojang.com/check"
+  484.643 D Downloading  "https://status.mojang.com/check"
+  484.775 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  484.775 D Download failed in previous step: "https://status.mojang.com/check"
+  484.776 D Downloading  "https://status.mojang.com/check"
+  484.883 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  484.884 D Download failed in previous step: "https://status.mojang.com/check"
+  484.885 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  484.885 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  544.415 D Task "NetJob(Status JSON)" starting for the first time
+  544.417 D Downloading  "https://status.mojang.com/check"
+  544.514 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  544.514 D Download failed in previous step: "https://status.mojang.com/check"
+  544.515 D Downloading  "https://status.mojang.com/check"
+  544.631 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  544.632 D Download failed in previous step: "https://status.mojang.com/check"
+  544.633 D Downloading  "https://status.mojang.com/check"
+  544.731 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  544.732 D Download failed in previous step: "https://status.mojang.com/check"
+  544.733 D Downloading  "https://status.mojang.com/check"
+  544.832 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  544.832 D Download failed in previous step: "https://status.mojang.com/check"
+  544.833 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  544.833 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  604.418 D Task "NetJob(Status JSON)" starting for the first time
+  604.419 D Downloading  "https://status.mojang.com/check"
+  604.517 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  604.518 D Download failed in previous step: "https://status.mojang.com/check"
+  604.518 D Downloading  "https://status.mojang.com/check"
+  604.614 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  604.615 D Download failed in previous step: "https://status.mojang.com/check"
+  604.615 D Downloading  "https://status.mojang.com/check"
+  604.715 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  604.716 D Download failed in previous step: "https://status.mojang.com/check"
+  604.717 D Downloading  "https://status.mojang.com/check"
+  604.813 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  604.814 D Download failed in previous step: "https://status.mojang.com/check"
+  604.815 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  604.815 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  664.416 D Task "NetJob(Status JSON)" starting for the first time
+  664.417 D Downloading  "https://status.mojang.com/check"
+  664.512 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  664.513 D Download failed in previous step: "https://status.mojang.com/check"
+  664.513 D Downloading  "https://status.mojang.com/check"
+  664.612 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  664.613 D Download failed in previous step: "https://status.mojang.com/check"
+  664.614 D Downloading  "https://status.mojang.com/check"
+  664.710 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  664.711 D Download failed in previous step: "https://status.mojang.com/check"
+  664.712 D Downloading  "https://status.mojang.com/check"
+  664.814 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  664.815 D Download failed in previous step: "https://status.mojang.com/check"
+  664.815 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  664.816 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  724.415 D Task "NetJob(Status JSON)" starting for the first time
+  724.416 D Downloading  "https://status.mojang.com/check"
+  724.511 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  724.512 D Download failed in previous step: "https://status.mojang.com/check"
+  724.512 D Downloading  "https://status.mojang.com/check"
+  724.610 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  724.611 D Download failed in previous step: "https://status.mojang.com/check"
+  724.612 D Downloading  "https://status.mojang.com/check"
+  724.709 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  724.710 D Download failed in previous step: "https://status.mojang.com/check"
+  724.710 D Downloading  "https://status.mojang.com/check"
+  724.824 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  724.825 D Download failed in previous step: "https://status.mojang.com/check"
+  724.825 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  724.826 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  784.415 D Task "NetJob(Status JSON)" starting for the first time
+  784.416 D Downloading  "https://status.mojang.com/check"
+  784.693 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  784.694 D Download failed in previous step: "https://status.mojang.com/check"
+  784.695 D Downloading  "https://status.mojang.com/check"
+  784.805 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  784.806 D Download failed in previous step: "https://status.mojang.com/check"
+  784.807 D Downloading  "https://status.mojang.com/check"
+  784.921 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  784.922 D Download failed in previous step: "https://status.mojang.com/check"
+  784.922 D Downloading  "https://status.mojang.com/check"
+  785.035 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  785.036 D Download failed in previous step: "https://status.mojang.com/check"
+  785.037 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  785.037 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  844.413 D Task "NetJob(Status JSON)" starting for the first time
+  844.414 D Downloading  "https://status.mojang.com/check"
+  844.512 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  844.512 D Download failed in previous step: "https://status.mojang.com/check"
+  844.513 D Downloading  "https://status.mojang.com/check"
+  844.630 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  844.631 D Download failed in previous step: "https://status.mojang.com/check"
+  844.632 D Downloading  "https://status.mojang.com/check"
+  844.729 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  844.730 D Download failed in previous step: "https://status.mojang.com/check"
+  844.731 D Downloading  "https://status.mojang.com/check"
+  844.831 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  844.832 D Download failed in previous step: "https://status.mojang.com/check"
+  844.833 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  844.834 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  904.415 D Task "NetJob(Status JSON)" starting for the first time
+  904.416 D Downloading  "https://status.mojang.com/check"
+  904.513 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  904.514 D Download failed in previous step: "https://status.mojang.com/check"
+  904.515 D Downloading  "https://status.mojang.com/check"
+  904.610 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  904.611 D Download failed in previous step: "https://status.mojang.com/check"
+  904.611 D Downloading  "https://status.mojang.com/check"
+  904.730 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  904.730 D Download failed in previous step: "https://status.mojang.com/check"
+  904.731 D Downloading  "https://status.mojang.com/check"
+  904.829 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  904.830 D Download failed in previous step: "https://status.mojang.com/check"
+  904.830 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  904.831 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  964.415 D Task "NetJob(Status JSON)" starting for the first time
+  964.416 D Downloading  "https://status.mojang.com/check"
+  964.530 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  964.531 D Download failed in previous step: "https://status.mojang.com/check"
+  964.532 D Downloading  "https://status.mojang.com/check"
+  964.631 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  964.632 D Download failed in previous step: "https://status.mojang.com/check"
+  964.633 D Downloading  "https://status.mojang.com/check"
+  964.764 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  964.766 D Download failed in previous step: "https://status.mojang.com/check"
+  964.767 D Downloading  "https://status.mojang.com/check"
+  964.865 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+  964.867 D Download failed in previous step: "https://status.mojang.com/check"
+  964.867 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+  964.870 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1024.416 D Task "NetJob(Status JSON)" starting for the first time
+ 1024.417 D Downloading  "https://status.mojang.com/check"
+ 1025.642 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1025.643 D Download failed in previous step: "https://status.mojang.com/check"
+ 1025.647 D Downloading  "https://status.mojang.com/check"
+ 1026.905 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1026.906 D Download failed in previous step: "https://status.mojang.com/check"
+ 1026.907 D Downloading  "https://status.mojang.com/check"
+ 1027.838 D Download succeeded: "https://status.mojang.com/check"
+ 1027.839 D Task "NetJob(Status JSON)" succeeded
+ 1027.840 D Finished loading status JSON.
+ 1027.840 D Status loading succeeded.
+ 1084.413 D Task "NetJob(Status JSON)" starting for the first time
+ 1084.414 D Downloading  "https://status.mojang.com/check"
+ 1106.731 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1106.732 D Download failed in previous step: "https://status.mojang.com/check"
+ 1106.733 D Downloading  "https://status.mojang.com/check"
+ 1107.689 D Download succeeded: "https://status.mojang.com/check"
+ 1107.690 D Task "NetJob(Status JSON)" succeeded
+ 1107.690 D Finished loading status JSON.
+ 1107.691 D Status loading succeeded.
+ 1144.411 D Task "NetJob(Status JSON)" starting for the first time
+ 1144.412 D Downloading  "https://status.mojang.com/check"
+ 1166.331 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1166.331 D Download failed in previous step: "https://status.mojang.com/check"
+ 1166.332 D Downloading  "https://status.mojang.com/check"
+ 1166.431 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1166.432 D Download failed in previous step: "https://status.mojang.com/check"
+ 1166.433 D Downloading  "https://status.mojang.com/check"
+ 1166.530 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1166.531 D Download failed in previous step: "https://status.mojang.com/check"
+ 1166.531 D Downloading  "https://status.mojang.com/check"
+ 1166.627 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1166.628 D Download failed in previous step: "https://status.mojang.com/check"
+ 1166.629 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1166.630 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1204.416 D Task "NetJob(Status JSON)" starting for the first time
+ 1204.417 D Downloading  "https://status.mojang.com/check"
+ 1204.514 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1204.515 D Download failed in previous step: "https://status.mojang.com/check"
+ 1204.515 D Downloading  "https://status.mojang.com/check"
+ 1205.102 D Download succeeded: "https://status.mojang.com/check"
+ 1205.103 D Task "NetJob(Status JSON)" succeeded
+ 1205.104 D Finished loading status JSON.
+ 1205.105 D Status loading succeeded.
+ 1264.415 D Task "NetJob(Status JSON)" starting for the first time
+ 1264.416 D Downloading  "https://status.mojang.com/check"
+ 1283.925 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1283.926 D Download failed in previous step: "https://status.mojang.com/check"
+ 1283.926 D Downloading  "https://status.mojang.com/check"
+ 1284.025 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1284.025 D Download failed in previous step: "https://status.mojang.com/check"
+ 1284.026 D Downloading  "https://status.mojang.com/check"
+ 1284.124 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1284.124 D Download failed in previous step: "https://status.mojang.com/check"
+ 1284.125 D Downloading  "https://status.mojang.com/check"
+ 1284.221 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1284.222 D Download failed in previous step: "https://status.mojang.com/check"
+ 1284.222 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1284.223 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1324.414 D Task "NetJob(Status JSON)" starting for the first time
+ 1324.415 D Downloading  "https://status.mojang.com/check"
+ 1324.726 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1324.727 D Download failed in previous step: "https://status.mojang.com/check"
+ 1324.727 D Downloading  "https://status.mojang.com/check"
+ 1324.825 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1324.826 D Download failed in previous step: "https://status.mojang.com/check"
+ 1324.826 D Downloading  "https://status.mojang.com/check"
+ 1324.922 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1324.923 D Download failed in previous step: "https://status.mojang.com/check"
+ 1324.923 D Downloading  "https://status.mojang.com/check"
+ 1325.026 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1325.027 D Download failed in previous step: "https://status.mojang.com/check"
+ 1325.027 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1325.028 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1384.413 D Task "NetJob(Status JSON)" starting for the first time
+ 1384.414 D Downloading  "https://status.mojang.com/check"
+ 1384.698 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1384.700 D Download failed in previous step: "https://status.mojang.com/check"
+ 1384.701 D Downloading  "https://status.mojang.com/check"
+ 1384.815 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1384.816 D Download failed in previous step: "https://status.mojang.com/check"
+ 1384.816 D Downloading  "https://status.mojang.com/check"
+ 1384.913 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1384.914 D Download failed in previous step: "https://status.mojang.com/check"
+ 1384.914 D Downloading  "https://status.mojang.com/check"
+ 1385.019 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1385.020 D Download failed in previous step: "https://status.mojang.com/check"
+ 1385.020 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1385.021 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1444.404 D Task "NetJob(Status JSON)" starting for the first time
+ 1444.405 D Downloading  "https://status.mojang.com/check"
+ 1444.516 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1444.516 D Download failed in previous step: "https://status.mojang.com/check"
+ 1444.517 D Downloading  "https://status.mojang.com/check"
+ 1444.612 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1444.613 D Download failed in previous step: "https://status.mojang.com/check"
+ 1444.613 D Downloading  "https://status.mojang.com/check"
+ 1444.920 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1444.921 D Download failed in previous step: "https://status.mojang.com/check"
+ 1444.921 D Downloading  "https://status.mojang.com/check"
+ 1445.018 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1445.019 D Download failed in previous step: "https://status.mojang.com/check"
+ 1445.019 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1445.020 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1504.402 D Task "NetJob(Status JSON)" starting for the first time
+ 1504.403 D Downloading  "https://status.mojang.com/check"
+ 1504.501 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1504.501 D Download failed in previous step: "https://status.mojang.com/check"
+ 1504.502 D Downloading  "https://status.mojang.com/check"
+ 1504.598 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1504.599 D Download failed in previous step: "https://status.mojang.com/check"
+ 1504.600 D Downloading  "https://status.mojang.com/check"
+ 1504.697 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1504.698 D Download failed in previous step: "https://status.mojang.com/check"
+ 1504.699 D Downloading  "https://status.mojang.com/check"
+ 1504.799 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1504.799 D Download failed in previous step: "https://status.mojang.com/check"
+ 1504.800 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1504.801 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1564.402 D Task "NetJob(Status JSON)" starting for the first time
+ 1564.403 D Downloading  "https://status.mojang.com/check"
+ 1564.502 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1564.503 D Download failed in previous step: "https://status.mojang.com/check"
+ 1564.504 D Downloading  "https://status.mojang.com/check"
+ 1564.600 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1564.601 D Download failed in previous step: "https://status.mojang.com/check"
+ 1564.602 D Downloading  "https://status.mojang.com/check"
+ 1564.697 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1564.699 D Download failed in previous step: "https://status.mojang.com/check"
+ 1564.699 D Downloading  "https://status.mojang.com/check"
+ 1564.797 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1564.798 D Download failed in previous step: "https://status.mojang.com/check"
+ 1564.799 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1564.800 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1624.402 D Task "NetJob(Status JSON)" starting for the first time
+ 1624.403 D Downloading  "https://status.mojang.com/check"
+ 1624.499 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1624.499 D Download failed in previous step: "https://status.mojang.com/check"
+ 1624.500 D Downloading  "https://status.mojang.com/check"
+ 1624.629 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1624.630 D Download failed in previous step: "https://status.mojang.com/check"
+ 1624.630 D Downloading  "https://status.mojang.com/check"
+ 1624.725 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1624.726 D Download failed in previous step: "https://status.mojang.com/check"
+ 1624.727 D Downloading  "https://status.mojang.com/check"
+ 1624.829 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1624.829 D Download failed in previous step: "https://status.mojang.com/check"
+ 1624.830 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1624.831 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1684.401 D Task "NetJob(Status JSON)" starting for the first time
+ 1684.402 D Downloading  "https://status.mojang.com/check"
+ 1684.498 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1684.499 D Download failed in previous step: "https://status.mojang.com/check"
+ 1684.499 D Downloading  "https://status.mojang.com/check"
+ 1684.596 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1684.597 D Download failed in previous step: "https://status.mojang.com/check"
+ 1684.598 D Downloading  "https://status.mojang.com/check"
+ 1685.054 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1685.055 D Download failed in previous step: "https://status.mojang.com/check"
+ 1685.056 D Downloading  "https://status.mojang.com/check"
+ 1685.151 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1685.152 D Download failed in previous step: "https://status.mojang.com/check"
+ 1685.152 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1685.153 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1744.393 D Task "NetJob(Status JSON)" starting for the first time
+ 1744.394 D Downloading  "https://status.mojang.com/check"
+ 1744.491 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1744.492 D Download failed in previous step: "https://status.mojang.com/check"
+ 1744.493 D Downloading  "https://status.mojang.com/check"
+ 1744.590 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1744.591 D Download failed in previous step: "https://status.mojang.com/check"
+ 1744.592 D Downloading  "https://status.mojang.com/check"
+ 1744.690 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1744.691 D Download failed in previous step: "https://status.mojang.com/check"
+ 1744.691 D Downloading  "https://status.mojang.com/check"
+ 1744.790 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1744.791 D Download failed in previous step: "https://status.mojang.com/check"
+ 1744.792 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1744.792 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1804.398 D Task "NetJob(Status JSON)" starting for the first time
+ 1804.399 D Downloading  "https://status.mojang.com/check"
+ 1804.502 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1804.503 D Download failed in previous step: "https://status.mojang.com/check"
+ 1804.504 D Downloading  "https://status.mojang.com/check"
+ 1804.600 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1804.601 D Download failed in previous step: "https://status.mojang.com/check"
+ 1804.602 D Downloading  "https://status.mojang.com/check"
+ 1804.701 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1804.701 D Download failed in previous step: "https://status.mojang.com/check"
+ 1804.702 D Downloading  "https://status.mojang.com/check"
+ 1804.800 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1804.801 D Download failed in previous step: "https://status.mojang.com/check"
+ 1804.802 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1804.803 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1864.397 D Task "NetJob(Status JSON)" starting for the first time
+ 1864.398 D Downloading  "https://status.mojang.com/check"
+ 1864.494 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1864.494 D Download failed in previous step: "https://status.mojang.com/check"
+ 1864.495 D Downloading  "https://status.mojang.com/check"
+ 1864.598 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1864.599 D Download failed in previous step: "https://status.mojang.com/check"
+ 1864.599 D Downloading  "https://status.mojang.com/check"
+ 1864.695 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1864.696 D Download failed in previous step: "https://status.mojang.com/check"
+ 1864.697 D Downloading  "https://status.mojang.com/check"
+ 1864.793 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1864.794 D Download failed in previous step: "https://status.mojang.com/check"
+ 1864.794 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1864.795 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1924.392 D Task "NetJob(Status JSON)" starting for the first time
+ 1924.393 D Downloading  "https://status.mojang.com/check"
+ 1924.486 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1924.487 D Download failed in previous step: "https://status.mojang.com/check"
+ 1924.488 D Downloading  "https://status.mojang.com/check"
+ 1924.582 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1924.583 D Download failed in previous step: "https://status.mojang.com/check"
+ 1924.583 D Downloading  "https://status.mojang.com/check"
+ 1924.685 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1924.686 D Download failed in previous step: "https://status.mojang.com/check"
+ 1924.686 D Downloading  "https://status.mojang.com/check"
+ 1924.783 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1924.784 D Download failed in previous step: "https://status.mojang.com/check"
+ 1924.784 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1924.785 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1984.397 D Task "NetJob(Status JSON)" starting for the first time
+ 1984.398 D Downloading  "https://status.mojang.com/check"
+ 1984.492 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1984.493 D Download failed in previous step: "https://status.mojang.com/check"
+ 1984.493 D Downloading  "https://status.mojang.com/check"
+ 1984.590 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1984.590 D Download failed in previous step: "https://status.mojang.com/check"
+ 1984.591 D Downloading  "https://status.mojang.com/check"
+ 1984.690 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1984.690 D Download failed in previous step: "https://status.mojang.com/check"
+ 1984.691 D Downloading  "https://status.mojang.com/check"
+ 1984.787 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 1984.787 D Download failed in previous step: "https://status.mojang.com/check"
+ 1984.788 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 1984.788 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2044.394 D Task "NetJob(Status JSON)" starting for the first time
+ 2044.395 D Downloading  "https://status.mojang.com/check"
+ 2044.493 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2044.494 D Download failed in previous step: "https://status.mojang.com/check"
+ 2044.494 D Downloading  "https://status.mojang.com/check"
+ 2044.604 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2044.605 D Download failed in previous step: "https://status.mojang.com/check"
+ 2044.605 D Downloading  "https://status.mojang.com/check"
+ 2044.704 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2044.704 D Download failed in previous step: "https://status.mojang.com/check"
+ 2044.705 D Downloading  "https://status.mojang.com/check"
+ 2044.799 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2044.800 D Download failed in previous step: "https://status.mojang.com/check"
+ 2044.800 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2044.801 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2104.390 D Task "NetJob(Status JSON)" starting for the first time
+ 2104.391 D Downloading  "https://status.mojang.com/check"
+ 2104.487 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2104.487 D Download failed in previous step: "https://status.mojang.com/check"
+ 2104.488 D Downloading  "https://status.mojang.com/check"
+ 2104.583 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2104.584 D Download failed in previous step: "https://status.mojang.com/check"
+ 2104.585 D Downloading  "https://status.mojang.com/check"
+ 2104.682 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2104.683 D Download failed in previous step: "https://status.mojang.com/check"
+ 2104.684 D Downloading  "https://status.mojang.com/check"
+ 2104.984 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2104.985 D Download failed in previous step: "https://status.mojang.com/check"
+ 2104.985 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2104.986 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2164.394 D Task "NetJob(Status JSON)" starting for the first time
+ 2164.395 D Downloading  "https://status.mojang.com/check"
+ 2164.540 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2164.541 D Download failed in previous step: "https://status.mojang.com/check"
+ 2164.541 D Downloading  "https://status.mojang.com/check"
+ 2164.640 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2164.641 D Download failed in previous step: "https://status.mojang.com/check"
+ 2164.642 D Downloading  "https://status.mojang.com/check"
+ 2164.739 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2164.740 D Download failed in previous step: "https://status.mojang.com/check"
+ 2164.741 D Downloading  "https://status.mojang.com/check"
+ 2164.838 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2164.838 D Download failed in previous step: "https://status.mojang.com/check"
+ 2164.839 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2164.840 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2224.389 D Task "NetJob(Status JSON)" starting for the first time
+ 2224.390 D Downloading  "https://status.mojang.com/check"
+ 2224.493 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2224.494 D Download failed in previous step: "https://status.mojang.com/check"
+ 2224.495 D Downloading  "https://status.mojang.com/check"
+ 2224.591 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2224.592 D Download failed in previous step: "https://status.mojang.com/check"
+ 2224.593 D Downloading  "https://status.mojang.com/check"
+ 2224.691 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2224.691 D Download failed in previous step: "https://status.mojang.com/check"
+ 2224.692 D Downloading  "https://status.mojang.com/check"
+ 2224.789 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2224.789 D Download failed in previous step: "https://status.mojang.com/check"
+ 2224.790 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2224.791 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2284.389 D Task "NetJob(Status JSON)" starting for the first time
+ 2284.390 D Downloading  "https://status.mojang.com/check"
+ 2285.012 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2285.015 D Download failed in previous step: "https://status.mojang.com/check"
+ 2285.016 D Downloading  "https://status.mojang.com/check"
+ 2285.128 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2285.131 D Download failed in previous step: "https://status.mojang.com/check"
+ 2285.132 D Downloading  "https://status.mojang.com/check"
+ 2286.165 D Download succeeded: "https://status.mojang.com/check"
+ 2286.166 D Task "NetJob(Status JSON)" succeeded
+ 2286.167 D Finished loading status JSON.
+ 2286.167 D Status loading succeeded.
+ 2344.391 D Task "NetJob(Status JSON)" starting for the first time
+ 2344.392 D Downloading  "https://status.mojang.com/check"
+ 2363.926 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2363.927 D Download failed in previous step: "https://status.mojang.com/check"
+ 2363.928 D Downloading  "https://status.mojang.com/check"
+ 2364.025 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2364.025 D Download failed in previous step: "https://status.mojang.com/check"
+ 2364.026 D Downloading  "https://status.mojang.com/check"
+ 2364.122 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2364.122 D Download failed in previous step: "https://status.mojang.com/check"
+ 2364.123 D Downloading  "https://status.mojang.com/check"
+ 2364.236 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2364.237 D Download failed in previous step: "https://status.mojang.com/check"
+ 2364.237 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2364.238 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2404.386 D Task "NetJob(Status JSON)" starting for the first time
+ 2404.388 D Downloading  "https://status.mojang.com/check"
+ 2404.486 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2404.487 D Download failed in previous step: "https://status.mojang.com/check"
+ 2404.487 D Downloading  "https://status.mojang.com/check"
+ 2404.582 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2404.583 D Download failed in previous step: "https://status.mojang.com/check"
+ 2404.584 D Downloading  "https://status.mojang.com/check"
+ 2404.680 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2404.681 D Download failed in previous step: "https://status.mojang.com/check"
+ 2404.681 D Downloading  "https://status.mojang.com/check"
+ 2404.776 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2404.777 D Download failed in previous step: "https://status.mojang.com/check"
+ 2404.778 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2404.778 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2464.383 D Task "NetJob(Status JSON)" starting for the first time
+ 2464.386 D Downloading  "https://status.mojang.com/check"
+ 2464.671 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2464.672 D Download failed in previous step: "https://status.mojang.com/check"
+ 2464.672 D Downloading  "https://status.mojang.com/check"
+ 2464.767 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2464.768 D Download failed in previous step: "https://status.mojang.com/check"
+ 2464.768 D Downloading  "https://status.mojang.com/check"
+ 2464.866 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2464.867 D Download failed in previous step: "https://status.mojang.com/check"
+ 2464.868 D Downloading  "https://status.mojang.com/check"
+ 2465.547 D Download succeeded: "https://status.mojang.com/check"
+ 2465.548 D Task "NetJob(Status JSON)" succeeded
+ 2465.549 D Finished loading status JSON.
+ 2465.550 D Status loading succeeded.
+ 2524.380 D Task "NetJob(Status JSON)" starting for the first time
+ 2524.381 D Downloading  "https://status.mojang.com/check"
+ 2543.931 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2543.931 D Download failed in previous step: "https://status.mojang.com/check"
+ 2543.932 D Downloading  "https://status.mojang.com/check"
+ 2544.031 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2544.031 D Download failed in previous step: "https://status.mojang.com/check"
+ 2544.032 D Downloading  "https://status.mojang.com/check"
+ 2544.128 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2544.129 D Download failed in previous step: "https://status.mojang.com/check"
+ 2544.130 D Downloading  "https://status.mojang.com/check"
+ 2544.228 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2544.229 D Download failed in previous step: "https://status.mojang.com/check"
+ 2544.230 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2544.230 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2584.382 D Task "NetJob(Status JSON)" starting for the first time
+ 2584.383 D Downloading  "https://status.mojang.com/check"
+ 2584.479 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2584.479 D Download failed in previous step: "https://status.mojang.com/check"
+ 2584.480 D Downloading  "https://status.mojang.com/check"
+ 2584.578 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2584.579 D Download failed in previous step: "https://status.mojang.com/check"
+ 2584.579 D Downloading  "https://status.mojang.com/check"
+ 2584.677 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2584.680 D Download failed in previous step: "https://status.mojang.com/check"
+ 2584.681 D Downloading  "https://status.mojang.com/check"
+ 2584.778 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2584.788 D Download failed in previous step: "https://status.mojang.com/check"
+ 2584.789 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2584.789 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2644.375 D Task "NetJob(Status JSON)" starting for the first time
+ 2644.376 D Downloading  "https://status.mojang.com/check"
+ 2644.478 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2644.479 D Download failed in previous step: "https://status.mojang.com/check"
+ 2644.479 D Downloading  "https://status.mojang.com/check"
+ 2644.577 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2644.578 D Download failed in previous step: "https://status.mojang.com/check"
+ 2644.579 D Downloading  "https://status.mojang.com/check"
+ 2644.675 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2644.676 D Download failed in previous step: "https://status.mojang.com/check"
+ 2644.677 D Downloading  "https://status.mojang.com/check"
+ 2644.772 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2644.773 D Download failed in previous step: "https://status.mojang.com/check"
+ 2644.774 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2644.774 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2704.369 D Task "NetJob(Status JSON)" starting for the first time
+ 2704.370 D Downloading  "https://status.mojang.com/check"
+ 2704.466 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2704.466 D Download failed in previous step: "https://status.mojang.com/check"
+ 2704.467 D Downloading  "https://status.mojang.com/check"
+ 2704.567 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2704.568 D Download failed in previous step: "https://status.mojang.com/check"
+ 2704.569 D Downloading  "https://status.mojang.com/check"
+ 2704.665 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2704.666 D Download failed in previous step: "https://status.mojang.com/check"
+ 2704.666 D Downloading  "https://status.mojang.com/check"
+ 2704.764 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2704.764 D Download failed in previous step: "https://status.mojang.com/check"
+ 2704.765 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2704.765 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2764.369 D Task "NetJob(Status JSON)" starting for the first time
+ 2764.370 D Downloading  "https://status.mojang.com/check"
+ 2764.466 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2764.466 D Download failed in previous step: "https://status.mojang.com/check"
+ 2764.467 D Downloading  "https://status.mojang.com/check"
+ 2764.565 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2764.566 D Download failed in previous step: "https://status.mojang.com/check"
+ 2764.567 D Downloading  "https://status.mojang.com/check"
+ 2764.691 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2764.693 D Download failed in previous step: "https://status.mojang.com/check"
+ 2764.693 D Downloading  "https://status.mojang.com/check"
+ 2764.791 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2764.792 D Download failed in previous step: "https://status.mojang.com/check"
+ 2764.792 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2764.794 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2824.368 D Task "NetJob(Status JSON)" starting for the first time
+ 2824.369 D Downloading  "https://status.mojang.com/check"
+ 2824.467 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2824.467 D Download failed in previous step: "https://status.mojang.com/check"
+ 2824.468 D Downloading  "https://status.mojang.com/check"
+ 2824.575 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2824.576 D Download failed in previous step: "https://status.mojang.com/check"
+ 2824.577 D Downloading  "https://status.mojang.com/check"
+ 2824.674 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2824.675 D Download failed in previous step: "https://status.mojang.com/check"
+ 2824.676 D Downloading  "https://status.mojang.com/check"
+ 2824.776 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2824.777 D Download failed in previous step: "https://status.mojang.com/check"
+ 2824.778 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2824.778 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2884.367 D Task "NetJob(Status JSON)" starting for the first time
+ 2884.368 D Downloading  "https://status.mojang.com/check"
+ 2884.465 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2884.466 D Download failed in previous step: "https://status.mojang.com/check"
+ 2884.466 D Downloading  "https://status.mojang.com/check"
+ 2884.562 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2884.563 D Download failed in previous step: "https://status.mojang.com/check"
+ 2884.563 D Downloading  "https://status.mojang.com/check"
+ 2884.660 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2884.661 D Download failed in previous step: "https://status.mojang.com/check"
+ 2884.662 D Downloading  "https://status.mojang.com/check"
+ 2884.765 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2884.766 D Download failed in previous step: "https://status.mojang.com/check"
+ 2884.766 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2884.767 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2944.367 D Task "NetJob(Status JSON)" starting for the first time
+ 2944.368 D Downloading  "https://status.mojang.com/check"
+ 2944.471 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2944.471 D Download failed in previous step: "https://status.mojang.com/check"
+ 2944.472 D Downloading  "https://status.mojang.com/check"
+ 2944.568 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2944.570 D Download failed in previous step: "https://status.mojang.com/check"
+ 2944.570 D Downloading  "https://status.mojang.com/check"
+ 2944.668 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2944.669 D Download failed in previous step: "https://status.mojang.com/check"
+ 2944.670 D Downloading  "https://status.mojang.com/check"
+ 2944.767 C Failed  "https://status.mojang.com/check"  with reason  QNetworkReply::NetworkError(RemoteHostClosedError)
+ 2944.767 D Download failed in previous step: "https://status.mojang.com/check"
+ 2944.768 C Task "NetJob(Status JSON)" failed:  "Job 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2944.769 D Failed to load status: "Failed to load status JSON:\nJob 'Status JSON' failed to process:\nhttps://status.mojang.com/check"
+ 2967.104 D Task "LauncherPartLaunch(0x2f0e8a8)" succeeded
+ 2967.474 D Task "LaunchTask(0x3f6e420)" succeeded
+ 2967.474 D Task "LaunchController(0x3f6e3d0)" succeeded

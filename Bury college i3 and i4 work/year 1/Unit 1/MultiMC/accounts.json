@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "accessToken": "0b8803e2eff741c5a19b5794cbd25af5",
+            "activeProfile": "bf98850d43a443548e642e47b37aeb57",
+            "clientToken": "53ab3bedcb99450897e650394164a9f9",
+            "profiles": [
+                {
+                    "id": "bf98850d43a443548e642e47b37aeb57",
+                    "legacy": false,
+                    "name": "SaramTacoJesus"
+                }
+            ],
+            "user": {
+                "id": "64a2141b8ca23846629e9bae3dc1c85d"
+            },
+            "username": "saramqamar12@gmail.com"
+        }
+    ],
+    "activeAccount": "saramqamar12@gmail.com",
+    "formatVersion": 2
+}

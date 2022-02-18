@@ -1,0 +1,93 @@
+static void Maths()
+{
+Console.WriteLine("What is 5 * 7 ? ");
+a1 = string (Console.ReadLine());
+an1 = real.Parse (a1)
+if an1 == 35;
+Console.WriteLine("correct");
+else;
+Console.WriteLine("incorrect")
+}
+
+static void Name()
+{
+Console.WriteLine("What is your name? ");
+nom = string (Console.ReadLine());
+Console.WriteLine("Hello " + nom)
+}
+
+static void Food()
+{
+Console.WriteLine("What are your 3 favourite foods?"); 
+
+Console.WriteLine("favourite food 1 : ");
+f1 = String (Console.ReadLine());
+
+Console.WriteLine("favourite food 2 : ");
+f2 = String (Console.ReadLine());
+
+Console.WriteLine("favourite food 3 : ");
+f3 = String (Console.ReadLine());
+
+Console.WriteLine("your favourite foods are " + f1 + ", " + f2 + " and " + f3 )
+}
+
+static void 3num()
+{
+Console.WriteLine("please enter 3 numbers and i will add them up");
+
+Console.WriteLine("number 1 ");
+num1 = String (Console.ReadLine());
+
+Console.WriteLine("number 2 ");
+num2 = String (Console.ReadLine());
+
+Console.WriteLine("number 3 ");
+num3 = String (Console.ReadLine());
+
+num 4 = (num1+num2+num3)
+Console.WriteLine(num4);
+}
+
+static void Age()
+{
+Console.WriteLine("what is your age");
+age = real.Parse(Console.ReadLine());
+Console.WriteLine("next year you will be " + (age+1) + " years old");
+}
+
+static void Quiz()
+{
+score = real.Parse("0")
+
+Console.WriteLine("what is the opposite of Life?");
+q1 = string(Console.ReadLine());
+if q1 == "Death";
+score = (score+1)
+
+Console.WriteLine("what is the capital of england?");
+q2 = string(Console.ReadLine());
+if q2 == "London";
+score = (score+1)
+
+Console.WriteLine("which prime minister is often referred to as TreSemme?");
+q3 = string(Console.ReadLine());
+if q3 == "Theresa May";
+score = (score+1)
+
+Console.WriteLine("Your score out of 3 is " score)
+}
+
+static void LessEqual()
+{
+Console.WriteLine("enter a number ");
+Le1 = real.Parse(Console.ReadLine());
+if Le1 > 12
+Console.WriteLine(Le1 + " is greater than 12");
+
+else if Le1 < 12
+Console.WriteLine(Le1 + " is lesser than 12");
+
+else if Le1 = 12
+Console.WriteLine(Le1 + " is equal to 12");
+}
